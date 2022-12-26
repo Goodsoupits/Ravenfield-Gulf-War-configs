@@ -1,0 +1,458 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "1719611567",
+                    "sourceWorkshopId": 1719611567,
+                    "name": "<color=#00FFFF>Sterling</color>"
+                },
+                {
+                    "sourceDirectory": "1526409713",
+                    "sourceWorkshopId": 1526409713,
+                    "name": "LSA90"
+                },
+                {
+                    "sourceDirectory": "2071541322",
+                    "sourceWorkshopId": 2071541322,
+                    "name": "L96A1"
+                },
+                {
+                    "sourceDirectory": "2260291702",
+                    "sourceWorkshopId": 2260291702,
+                    "name": "Browning P-35"
+                },
+                {
+                    "sourceDirectory": "2413480192",
+                    "sourceWorkshopId": 2413480192,
+                    "name": "FN Fal"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "M71 EDICT"
+                },
+                {
+                    "sourceDirectory": "1347353252",
+                    "sourceWorkshopId": 1347353252,
+                    "name": "FN MAG"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2776739934",
+                    "sourceWorkshopId": 2776739934,
+                    "name": "Unimog 404"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2776739934",
+                    "sourceWorkshopId": 2776739934,
+                    "name": "Unimog 404"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2776739934",
+                    "sourceWorkshopId": 2776739934,
+                    "name": "Unimog 404"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2783021514",
+                    "sourceWorkshopId": 2783021514,
+                    "name": "Challenger 1 Desert"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2365803798",
+                    "sourceWorkshopId": 2365803798,
+                    "name": "Westland Lynx G 8 2"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2452573598",
+                    "sourceWorkshopId": 2452573598,
+                    "name": "Sepecat Jaguar 13"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2668073185",
+                    "sourceWorkshopId": 2668073185,
+                    "name": "MG assault boatC"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2668073185",
+                    "sourceWorkshopId": 2668073185,
+                    "name": "MG assault boatC"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2452573598",
+                    "sourceWorkshopId": 2452573598,
+                    "name": "Sepecat Jaguar 13"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2365803798",
+                    "sourceWorkshopId": 2365803798,
+                    "name": "Westland Lynx G 8 2"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2860764093",
+                    "sourceWorkshopId": 2860764093,
+                    "name": "FV 510 Warrior IFV"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2403482384",
+                    "sourceWorkshopId": 2403482384,
+                    "name": "FN MAG"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2612964073",
+                    "sourceWorkshopId": 2612964073,
+                    "name": "TOW Launcher gg 1"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "1668961758",
+                    "sourceWorkshopId": 1668961758,
+                    "name": "M167"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2015887363",
+                "sourceWorkshopId": 2015887363,
+                "name": "Squaddie, Mk 6, Desert"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "SKS"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "RPK"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "PK"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKM"
+                },
+                {
+                    "sourceDirectory": "2268044706",
+                    "sourceWorkshopId": 2268044706,
+                    "name": "AK-47 [Select Fire]"
+                },
+                {
+                    "sourceDirectory": "2035639749",
+                    "sourceWorkshopId": 2035639749,
+                    "name": "Type 56"
+                },
+                {
+                    "sourceDirectory": "2081926939",
+                    "sourceWorkshopId": 2081926939,
+                    "name": "Pistolet-pulemyot Sudayeva"
+                },
+                {
+                    "sourceDirectory": "2239505694",
+                    "sourceWorkshopId": 2239505694,
+                    "name": "Zastava M70AB2"
+                },
+                {
+                    "sourceDirectory": "1906202744",
+                    "sourceWorkshopId": 1906202744,
+                    "name": "Type 81-1"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "SVD"
+                },
+                {
+                    "sourceDirectory": "2413480192",
+                    "sourceWorkshopId": 2413480192,
+                    "name": "FN Fal"
+                },
+                {
+                    "sourceDirectory": "2423004479",
+                    "sourceWorkshopId": 2423004479,
+                    "name": "Simonov SKS"
+                },
+                {
+                    "sourceDirectory": "2868106456",
+                    "sourceWorkshopId": 2868106456,
+                    "name": "Skorpion Vz.61"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "RPG-7 PG-7L"
+                },
+                {
+                    "sourceDirectory": "1347353252",
+                    "sourceWorkshopId": 1347353252,
+                    "name": "FN MAG"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "DEGTYAROV MG"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "TARIB 13"
+                },
+                {
+                    "sourceDirectory": "2814142633",
+                    "sourceWorkshopId": 2814142633,
+                    "name": "Makarov"
+                },
+                {
+                    "sourceDirectory": "1892599762",
+                    "sourceWorkshopId": 1892599762,
+                    "name": "Tula Tokarev - 33"
+                },
+                {
+                    "sourceDirectory": "2260291702",
+                    "sourceWorkshopId": 2260291702,
+                    "name": "Browning P-35"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74u"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2103711362",
+                    "sourceWorkshopId": 2103711362,
+                    "name": "Ural 4320"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2533401358",
+                    "sourceWorkshopId": 2533401358,
+                    "name": "UAZ-469 Desert MG GG"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2533401358",
+                    "sourceWorkshopId": 2533401358,
+                    "name": "UAZ-469 Desert transport GG"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2519848090",
+                    "sourceWorkshopId": 2519848090,
+                    "name": "T-72A Desert revamp OMAGUS GG 1"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2476723359",
+                    "sourceWorkshopId": 2476723359,
+                    "name": "MI-24 Hind Desert GG"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2380012363",
+                    "sourceWorkshopId": 2380012363,
+                    "name": "MIG-21 Fishbed GG 1"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2499917174",
+                    "sourceWorkshopId": 2499917174,
+                    "name": "MIG-23 Flogger GG 6"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2528039954",
+                    "sourceWorkshopId": 2528039954,
+                    "name": "MI-8 Desert 3"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2554885672",
+                    "sourceWorkshopId": 2554885672,
+                    "name": "BMP-2 desert revamp"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2579829162",
+                    "sourceWorkshopId": 2579829162,
+                    "name": "DSHK HMG GG"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2119868463",
+                    "sourceWorkshopId": 2119868463,
+                    "name": "D-20 45"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2351694765",
+                    "sourceWorkshopId": 2351694765,
+                    "name": "ZU AA GG 4"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2141248858",
+                "sourceWorkshopId": 2141248858,
+                "name": "Iraqi Regular"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2798038529",
+            "sourceWorkshopId": 2798038529,
+            "name": "LETMS Framework",
+            "fields": [
+                {
+                    "id": "bShowHud",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "bRicochet",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "bTracker",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "bMuteRepair",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "iEagleCamoIndex",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "iRavenCamoIndex",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2121823035",
+            "sourceWorkshopId": 2121823035,
+            "name": "Custom Blood Color",
+            "fields": [
+                {
+                    "id": "rSliderEagle",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "gSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderEagle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "rSliderRaven",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "gSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bSliderRaven",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "aSliderRaven",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "aSliderEagle",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "hexValueEagle",
+                    "serializedValue": "#0000ff"
+                },
+                {
+                    "id": "hexValueRaven",
+                    "serializedValue": "#ff0000"
+                },
+                {
+                    "id": "disableBlood",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "usePresets",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "hexColorEnabled",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "preset",
+                    "serializedValue": "0"
+                }
+            ]
+        }
+    ],
+    "playerHasAllWeapons": false
+}
