@@ -1,0 +1,413 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "2236706162",
+                    "sourceWorkshopId": 2236706162,
+                    "name": "Ka-Bar"
+                },
+                {
+                    "sourceDirectory": "2782123396",
+                    "sourceWorkshopId": 2782123396,
+                    "name": "M67 FRAG"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "M71 EDICT"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "M15 BATTLE RIFLE"
+                },
+                {
+                    "sourceDirectory": "1354182597",
+                    "sourceWorkshopId": 1354182597,
+                    "name": "M20 SWS"
+                },
+                {
+                    "sourceDirectory": "2707624875",
+                    "sourceWorkshopId": 2707624875,
+                    "name": "M16A1 30rnd"
+                },
+                {
+                    "sourceDirectory": "2708119098",
+                    "sourceWorkshopId": 2708119098,
+                    "name": "M16A2"
+                },
+                {
+                    "sourceDirectory": "2708119098",
+                    "sourceWorkshopId": 2708119098,
+                    "name": "M16A2 M203"
+                },
+                {
+                    "sourceDirectory": "2708119098",
+                    "sourceWorkshopId": 2708119098,
+                    "name": "M16A2 Semi"
+                },
+                {
+                    "sourceDirectory": "2707619807",
+                    "sourceWorkshopId": 2707619807,
+                    "name": "M60"
+                },
+                {
+                    "sourceDirectory": "1767157275",
+                    "sourceWorkshopId": 1767157275,
+                    "name": "United States Submachine Gun,Cal. .45,M3A1"
+                },
+                {
+                    "sourceDirectory": "1803638055",
+                    "sourceWorkshopId": 1803638055,
+                    "name": "<color=#ff6EC7>M9</color>"
+                },
+                {
+                    "sourceDirectory": "1998082602",
+                    "sourceWorkshopId": 1998082602,
+                    "name": "Pistol, Caliber .45, M1911A1"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "M249E2"
+                },
+                {
+                    "sourceDirectory": "2760330752",
+                    "sourceWorkshopId": 2760330752,
+                    "name": "M40A5"
+                },
+                {
+                    "sourceDirectory": "2346430067",
+                    "sourceWorkshopId": 2346430067,
+                    "name": "Remington 870"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2493297154",
+                    "sourceWorkshopId": 2493297154,
+                    "name": "Humvee Transport FIX"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2493297154",
+                    "sourceWorkshopId": 2493297154,
+                    "name": "Humvee MG FIX 2"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2167979156",
+                    "sourceWorkshopId": 2167979156,
+                    "name": "US_Jeep 30cal Compatible v2022"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "1813245700",
+                    "sourceWorkshopId": 1813245700,
+                    "name": "M60A3"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2572138180",
+                    "sourceWorkshopId": 2572138180,
+                    "name": "AH-1W SuperCobra gg"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2418612767",
+                    "sourceWorkshopId": 2418612767,
+                    "name": "F-14 Tomcat revamp 4"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "2589971675",
+                    "sourceWorkshopId": 2589971675,
+                    "name": "MG assault boatA"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "2589971675",
+                    "sourceWorkshopId": 2589971675,
+                    "name": "MG assault boatA"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2418612767",
+                    "sourceWorkshopId": 2418612767,
+                    "name": "F-14 Tomcat revamp 4"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2853708075",
+                    "sourceWorkshopId": 2853708075,
+                    "name": "CH-53"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2753366497",
+                    "sourceWorkshopId": 2753366497,
+                    "name": "LAV-25 Desert updt"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2535310465",
+                    "sourceWorkshopId": 2535310465,
+                    "name": "M2 Browning MG no shield"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2118568859",
+                    "sourceWorkshopId": 2118568859,
+                    "name": "Mortar"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "1668961758",
+                    "sourceWorkshopId": 1668961758,
+                    "name": "M167"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2117133184",
+                "sourceWorkshopId": 2117133184,
+                "name": "USMC Early 1990s Desert"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AK-74"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "SKS"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "RPK"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "PK"
+                },
+                {
+                    "sourceDirectory": "2767544210",
+                    "sourceWorkshopId": 2767544210,
+                    "name": "AKM"
+                },
+                {
+                    "sourceDirectory": "2268044706",
+                    "sourceWorkshopId": 2268044706,
+                    "name": "AK-47 [Select Fire]"
+                },
+                {
+                    "sourceDirectory": "2035639749",
+                    "sourceWorkshopId": 2035639749,
+                    "name": "Type 56"
+                },
+                {
+                    "sourceDirectory": "2081926939",
+                    "sourceWorkshopId": 2081926939,
+                    "name": "Pistolet-pulemyot Sudayeva"
+                },
+                {
+                    "sourceDirectory": "2239505694",
+                    "sourceWorkshopId": 2239505694,
+                    "name": "Zastava M70AB2"
+                },
+                {
+                    "sourceDirectory": "1906202744",
+                    "sourceWorkshopId": 1906202744,
+                    "name": "Type 81-1"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "SVD"
+                },
+                {
+                    "sourceDirectory": "2413480192",
+                    "sourceWorkshopId": 2413480192,
+                    "name": "FN Fal"
+                },
+                {
+                    "sourceDirectory": "2423004479",
+                    "sourceWorkshopId": 2423004479,
+                    "name": "Simonov SKS"
+                },
+                {
+                    "sourceDirectory": "2868106456",
+                    "sourceWorkshopId": 2868106456,
+                    "name": "Skorpion Vz.61"
+                },
+                {
+                    "sourceDirectory": "2804853883",
+                    "sourceWorkshopId": 2804853883,
+                    "name": "RPG-7 PG-7L"
+                },
+                {
+                    "sourceDirectory": "1347353252",
+                    "sourceWorkshopId": 1347353252,
+                    "name": "FN MAG"
+                },
+                {
+                    "sourceDirectory": "1365889552",
+                    "sourceWorkshopId": 1365889552,
+                    "name": "DEGTYAROV MG"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "TARIB 13"
+                },
+                {
+                    "sourceDirectory": "2814142633",
+                    "sourceWorkshopId": 2814142633,
+                    "name": "Makarov"
+                },
+                {
+                    "sourceDirectory": "1892599762",
+                    "sourceWorkshopId": 1892599762,
+                    "name": "Tula Tokarev - 33"
+                },
+                {
+                    "sourceDirectory": "2260291702",
+                    "sourceWorkshopId": 2260291702,
+                    "name": "Browning P-35"
+                },
+                {
+                    "sourceDirectory": "2707626277",
+                    "sourceWorkshopId": 2707626277,
+                    "name": "AKS-74u"
+                },
+                {
+                    "sourceDirectory": "1549834959",
+                    "sourceWorkshopId": 1549834959,
+                    "name": "RKMS"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2533401358",
+                    "sourceWorkshopId": 2533401358,
+                    "name": "UAZ-469 Desert transport GG"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2533401358",
+                    "sourceWorkshopId": 2533401358,
+                    "name": "UAZ-469 Desert MG GG"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2533401358",
+                    "sourceWorkshopId": 2533401358,
+                    "name": "UAZ-469 Desert transport GG"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "2631758038",
+                    "sourceWorkshopId": 2631758038,
+                    "name": "T-55 Desert 1"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "2476723359",
+                    "sourceWorkshopId": 2476723359,
+                    "name": "MI-24 Hind Desert GG"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "2380012363",
+                    "sourceWorkshopId": 2380012363,
+                    "name": "MIG-21 Fishbed GG 1"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "2499917174",
+                    "sourceWorkshopId": 2499917174,
+                    "name": "MIG-23 Flogger GG 6"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "2528039954",
+                    "sourceWorkshopId": 2528039954,
+                    "name": "MI-8 Desert 3"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "2534361297",
+                    "sourceWorkshopId": 2534361297,
+                    "name": "BTR-60 Desert 2"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "2579829162",
+                    "sourceWorkshopId": 2579829162,
+                    "name": "DSHK HMG GG"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "2118568859",
+                    "sourceWorkshopId": 2118568859,
+                    "name": "Mortar"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "2351694765",
+                    "sourceWorkshopId": 2351694765,
+                    "name": "ZU AA GG 4"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "2141248858",
+                "sourceWorkshopId": 2141248858,
+                "name": "Iraqi Republican Guard"
+            }
+        }
+    ],
+    "mutatorInfo": [],
+    "playerHasAllWeapons": false
+}
